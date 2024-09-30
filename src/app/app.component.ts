@@ -6,8 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  exibiHome: boolean = true;
-  destruir(){
-    this.exibiHome = false
-  }
+
 }

@@ -8,7 +8,8 @@ import { Component, type OnInit } from '@angular/core';
 export class NavbarComponent implements OnInit {
   //ngOnInit e uma funcao para dizer que um componente inicializou
   ngOnInit(): void {
-    console.log('NavBar Inicializou!')
+    console.log('Uma mudanca foi feita.')
   }
 
 }
+ 
